@@ -1,0 +1,10 @@
+openai
+google-generativeai
+pandas
+numpy
+pydantic
+python-dotenv
+scikit-learn
+requests
+tqdm
+pyarrow
